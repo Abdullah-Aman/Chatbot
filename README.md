@@ -12,6 +12,7 @@ In this technical time, the chatbot is used in many platforms, websites and elec
 There is an application interface with a message written in it (do you need help?) and a button written on it (press to speak) and it is used to start speaking. After that, the voice message is received from the user, as follows:
 
 1- In the case of the word (Hello) or (Hi), a random reply message will be chosen from among 3 appropriate responses options that were previously stored.
+
 2- In the case of a sentence (How are you) or (How do you feel), a random reply message will be chosen from among 3 appropriate responses options that were previously stored.
 
 # Some files related to this project are Attached:
